@@ -13,6 +13,8 @@ int main() {
     int a; long b;
     cout << "int len: " << sizeof(a) << endl;
     cout << "long len: " << sizeof(b) << endl;
+    cout << "a pointer len: " << sizeof(&a) << endl;
+    cout << "b pointer len: " << sizeof(&b) << endl;
 
     return 0;
 }

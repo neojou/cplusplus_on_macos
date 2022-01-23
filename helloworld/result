@@ -1,0 +1,5 @@
+Hello World! __LP64__ is defined. 
+int len: 4
+long len: 8
+a pointer len: 8
+b pointer len: 8
